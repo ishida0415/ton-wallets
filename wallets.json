@@ -15,28 +15,5 @@
         "key": "tonkeeper"
       }
     ]
-  },
-  {
-    "name": "OpenMask",
-    "image": "https://raw.githubusercontent.com/OpenProduct/openmask-extension/main/public/openmask-logo-288.png",
-    "about_url": "https://www.openmask.app/",
-    "bridge": [
-      {
-        "type": "js",
-        "key": "openmask"
-      }
-    ]
-  },
-  {
-    "name": "SafePal",
-    "image": "https://s.pvcliping.com/web/public_image/SafePal_x288.png",
-    "about_url": "https://www.safepal.com/",
-    "universal_url": "https://www.safepal.com/download",
-    "bridge": [
-      {
-        "type": "js",
-        "key": "safepal_ton"
-      }
-    ]
   }
 ]
