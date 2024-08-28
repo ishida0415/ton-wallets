@@ -26,16 +26,5 @@
         "key": "openmask"
       }
     ]
-  },
-  {
-    "name": "MyTonWallet",
-    "image": "https://mytonwallet.io/icon-256.png",
-    "about_url": "https://mytonwallet.io",
-    "bridge": [
-      {
-        "type": "js",
-        "key": "mytonwallet"
-      }
-    ]
   }
 ]
