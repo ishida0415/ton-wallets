@@ -20,7 +20,6 @@
     "tondns": "tonkeeper.ton",
     "about_url": "https://tonkeeper.com",
     "universal_url": "https://app.tonkeeper.com/ton-connect",
-    "deepLink": "tonkeeper-tc://",
     "bridge": [
       {
         "type": "sse",
@@ -31,7 +30,7 @@
         "key": "tonkeeper"
       }
     ],
-    "platforms": ["ios", "android", "chrome", "firefox", "macos"]
+    "platforms": ["ios", "android", "chrome", "firefox"]
   },
   {
     "app_name": "openmask",
@@ -62,7 +61,7 @@
         "url": "https://tonconnectbridge.mytonwallet.org/bridge/"
       }
     ],
-    "platforms": ["chrome", "windows", "macos", "linux"]
+    "platforms": ["chrome", "windows", "macos", "linux", "ios", "android", "firefox"]
   },
   {
     "app_name": "tonhub",
